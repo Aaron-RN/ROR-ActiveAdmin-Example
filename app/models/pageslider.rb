@@ -1,0 +1,2 @@
+class Pageslider < ApplicationRecord
+end
